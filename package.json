@@ -1,0 +1,27 @@
+{
+  "name": "noderestperftest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriomq/NodeRestPerfTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriomq/NodeRestPerfTest/issues"
+  },
+  "homepage": "https://github.com/rogeriomq/NodeRestPerfTest#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fastify": "^0.35.1",
+    "hapi": "^17.0.2",
+    "koa": "^2.4.1",
+    "n": "^2.1.8",
+    "restify": "^6.3.4"
+  }
+}
